@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Coca Cola",
+        "amount": 2,
+        "price": 2.5
+    },
+    {
+        "name": "Pepsi",
+        "amount": 1,
+        "price": 2.5
+    },
+    {
+        "name": "Fanta",
+        "amount": 3,
+        "price": 2.5
+    }
+]
